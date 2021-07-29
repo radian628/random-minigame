@@ -1,0 +1,321 @@
+[
+    {
+        "items": [
+            {
+                "id": "water_bucket",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "lava_bucket",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "milk_bucket",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "bone",
+                "count": 64
+            },
+            {
+                "id": "wolf_spawn_egg",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "ender_pearl",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "bow",
+                "count": 1
+            },
+            {
+                "id": "arrow",
+                "count": 32
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "tnt",
+                "count": 32
+            },
+            {
+                "id": "flint_and_steel",
+                "count": "1"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "crossbow",
+                "count": 1
+            },
+            {
+                "id": "arrow",
+                "count": 32
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "crossbow",
+                "count": 1
+            },
+            {
+                "id": "firework_rocket{\"Fireworks\":{\"Explosions\":[{},{},{},{},{},{},{},{},{},{},{},{}]},\"display\":{\"Name\":'{\"text\":\"Mini Nuke\",\"color\":\"red\"}'}}",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "crossbow",
+                "count": 1
+            },
+            {
+                "id": "firework_rocket{\"Fireworks\":{\"Flight\":3,\"Explosions\":[{},{},{}]},\"display\":{\"Name\":'{\"text\":\"Long Range Rocket\",\"color\":\"red\"}'}}",
+                "count": 18
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "crossbow",
+                "count": 1
+            },
+            {
+                "id": "firework_rocket{\"Fireworks\":{\"Explosions\":[{},{},{}]}}",
+                "count": 32
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "snowball{display:{Name:'{\"text\":\"Ball Lightning\",\"color\":\"yellow\"}'}}",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "elytra",
+                "count": 1
+            },
+            {
+                "id": "firework_rocket",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "trident",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "shield",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "totem_of_undying",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "enchanted_golden_apple",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "infested_stone",
+                "count": 32
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "wither_skeleton_skull",
+                "count": 3
+            },
+            {
+                "id": "soul_sand",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "fishing_rod",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "saddle",
+                "count": 1
+            },
+            {
+                "id": "pig_spawn_egg",
+                "count": 1
+            },            {
+                "id": "horse_spawn_egg",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "cobweb",
+                "count": 16
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "bee_nest{BlockEntityTag:{Bees:[{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}}]}}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "squid_spawn_egg{display:{Name:'{\"text\":\"Depths of the Ocean\",\"color\":\"blue\"}'}}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "potion{display:{Name:'{\"text\":\"Potion of Platforming\",\"color\":\"green\"}'},CustomPotionEffects:[{Id:8,Duration:4000,Amplifier:5},{Id:28,Duration:4000,Amplifier:1}]}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "blaze_spawn_egg{display:{Name:'{\"text\":\"Fire Ball\",\"color\":\"gold\"}'}}",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"Charged Creeper\",\"color\":\"aqua\"}'}}",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "enchanting_table",
+                "count": 1
+            },
+            {
+                "id": "bookshelf",
+                "count": 16
+            },
+            {
+                "id": "anvil",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "anvil",
+                "count": 24
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "rail",
+                "count": 32
+            },
+            {
+                "id": "tnt_minecart",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "silverfish_spawn_egg{display:{Name:'{\"text\":\"Instant Platform\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"instant_platform\"]}}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "silverfish_spawn_egg{display:{Name:'{\"text\":\"Instant Bridge\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"instant_bridge\"]}}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "spawner",
+                "count": 1
+            }
+        ]
+    }
+]
