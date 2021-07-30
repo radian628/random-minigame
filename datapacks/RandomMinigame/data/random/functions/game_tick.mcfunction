@@ -46,3 +46,5 @@ execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^8 stone
 execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^9 stone
 execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^10 stone
 kill @e[tag=instant_bridge]
+
+attribute @e[type=wither] minecraft:generic.follow_range base set 256.0
