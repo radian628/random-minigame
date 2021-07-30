@@ -198,21 +198,6 @@
     {
         "items": [
             {
-                "id": "saddle",
-                "count": 1
-            },
-            {
-                "id": "pig_spawn_egg",
-                "count": 1
-            },            {
-                "id": "horse_spawn_egg",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "items": [
-            {
                 "id": "cobweb",
                 "count": 16
             }
@@ -269,8 +254,12 @@
                 "count": 16
             },
             {
-                "id": "anvil",
-                "count": 1
+                "id": "lapis_lazuli",
+                "count": 64
+            },
+            {
+                "id": "experience_bottle",
+                "count": 64
             }
         ]
     },
@@ -279,18 +268,6 @@
             {
                 "id": "anvil",
                 "count": 24
-            }
-        ]
-    },
-    {
-        "items": [
-            {
-                "id": "rail",
-                "count": 32
-            },
-            {
-                "id": "tnt_minecart",
-                "count": 2
             }
         ]
     },

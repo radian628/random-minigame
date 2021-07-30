@@ -10,6 +10,8 @@ team add red
 team add blue
 team modify red color red
 team modify blue color blue
+team modify red friendlyFire false
+team modify blue friendlyFire false
 
 scoreboard objectives add stillAlive dummy
 scoreboard objectives add time dummy
