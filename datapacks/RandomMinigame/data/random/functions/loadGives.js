@@ -88,7 +88,7 @@ mobs.forEach(mob => {
 
 
 
-var blocks = ["grass_block", "dirt", "stone", "cobblestone", "white_wool", "oak_leaves", "sand", "gravel", "ice", "blue_ice", "slime_block", "honey_block", "scaffolding"]
+var blocks = ["sponge", "grass_block", "dirt", "stone", "cobblestone", "white_wool", "oak_leaves", "sand", "gravel", "ice", "blue_ice", "slime_block", "honey_block", "scaffolding"]
 
 
 blocks.forEach(block => {

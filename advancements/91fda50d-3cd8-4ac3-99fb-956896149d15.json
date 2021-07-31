@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-07-30 13:47:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-06-25 14:29:39 -0700"
@@ -568,6 +574,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2020-07-02 18:15:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-07-30 14:47:07 -0700"
     },
     "done": true
   },
@@ -823,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-07-30 14:47:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-06-25 14:21:04 -0700"
@@ -970,6 +988,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-06-28 21:20:47 -0700",
+      "minecraft:zoglin": "2021-07-30 14:24:54 -0700",
       "minecraft:ghast": "2020-06-25 17:27:13 -0700",
       "minecraft:magma_cube": "2020-06-25 13:42:19 -0700",
       "minecraft:spider": "2020-06-25 13:41:59 -0700",
@@ -1133,6 +1152,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-06-25 13:08:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-07-30 14:18:20 -0700"
     },
     "done": true
   },
@@ -1541,6 +1566,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-06-25 14:21:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-07-30 14:47:07 -0700"
     },
     "done": true
   },
@@ -1991,6 +2022,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-06-25 14:18:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-07-30 14:18:20 -0700"
     },
     "done": true
   },

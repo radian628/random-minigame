@@ -11,4 +11,4 @@ bossbar set minecraft:blue visible false
 bossbar set minecraft:red visible false
 
 
-schedule function random:test/armor_stand2 2t
+#schedule function random:test/armor_stand2 2t

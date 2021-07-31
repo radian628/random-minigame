@@ -31,7 +31,7 @@ kill @e[name="Fire Ball"]
 execute at @e[name="Charged Creeper"] run summon creeper ~ ~ ~ {powered:true}
 tp @e[name="Charged Creeper"] ~ ~-1000 ~
 
-execute at @e[tag=instant_platform] run fill ~-3 ~-1 ~-3 ~3 ~-1 ~3 stone
+execute at @e[tag=instant_platform] run fill ~-5 ~-1 ~-5 ~5 ~-1 ~5 stone
 kill @e[tag=instant_platform]
 
 execute as @e[tag=instant_bridge] run execute at @p run tp @p ~ ~ ~ ~ 0
@@ -45,6 +45,26 @@ execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^7 stone
 execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^8 stone
 execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^9 stone
 execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^10 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^11 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^12 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^13 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^14 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^15 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^16 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^17 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^18 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^19 stone
+execute at @e[tag=instant_bridge] run execute at @p run setblock ^ ^ ^20 stone
 kill @e[tag=instant_bridge]
 
-attribute @e[type=wither] minecraft:generic.follow_range base set 256.0
+execute at @e[tag=chicken_jockey] run summon chicken ~ ~ ~ {"Passengers":[{"id":"zombie","IsBaby":true}]}
+kill @e[tag=chicken_jockey]
+
+execute at @e[tag=skeleton_stack] run summon bat ~ ~ ~ {"Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton",}]}]}]}]}
+kill @e[tag=skeleton_stack]
+
+execute at @e[tag=thermonuclear_bomb] run summon tnt ~ ~4 ~ {"Fuse":120}
+execute at @e[tag=thermonuclear_bomb] run fill ~-2 ~-5 ~-2 ~2 ~-1 ~2 tnt
+kill @e[tag=thermonuclear_bomb]
+
+execute as @e[type=wither] run attribute @s minecraft:generic.follow_range base set 256.0

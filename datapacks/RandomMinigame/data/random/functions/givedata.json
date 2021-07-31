@@ -290,6 +290,30 @@
     {
         "items": [
             {
+                "id": "chicken_spawn_egg{display:{Name:'{\"text\":\"Chicken Jockey\",\"color\":\"green\"}'},EntityTag:{Tags:[\"chicken_jockey\"]}}",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "skeleton_spawn_egg{display:{Name:'{\"text\":\"Skeleton Stack\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"skeleton_stack\"]}}",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"THERMONUCLEAR BOMB\",\"color\":\"red\"}'},EntityTag:{Tags:[\"thermonuclear_bomb\"]}}",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "items": [
+            {
                 "id": "spawner",
                 "count": 1
             }

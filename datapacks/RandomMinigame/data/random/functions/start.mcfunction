@@ -4,8 +4,6 @@ worldborder set 10000
 forceload add -1 -1 1 1
 clear @a
 
-function random:test/armor_stand2
-
 team add red
 team add blue
 team modify red color red
@@ -28,6 +26,8 @@ scoreboard players set @a walk 0
 kill @e[type=armor_stand]
 summon minecraft:armor_stand 0 255 0 {"Marker":true,"Invisible":true}
 execute positioned 0 255 0 run tag @e[type=minecraft:armor_stand,limit=1] add sk
+
+function random:test/armor_stand2
 
 scoreboard players set @e[tag=sk] random 234234	
 scoreboard players set @e[tag=sk] itemCount 1061
