@@ -1,11 +1,20 @@
 scoreboard players add @e[tag=sk] time 1
+scoreboard players add @e[tag=sk] globalTime 1
 scoreboard players operation @e[tag=sk] random += @r walk
 scoreboard players operation @e[tag=sk] random %= @e[tag=sk,limit=1] itemCount
 execute if score @e[tag=sk,limit=1] time matches 317.. run function random:give
 execute if score @e[tag=sk,limit=1] time matches 317.. run scoreboard players set @e[tag=sk] time 0
 
+#COMMENT FIRST LINE = TESTING;    COMMENT SECOND LINE = PRODUCTION
 scoreboard players set @e[tag=sk] stillAlive 0
+#scoreboard players set @e[tag=sk] stillAlive 2
+
+
+
 execute as @a[gamemode=survival] run scoreboard players add @e[tag=sk] stillAlive 1
+
+
+
 
 #title @a[x=-128,y=95,z=-128,dx=256,dy=5,dz=256] actionbar {"text":"Warning: Approaching Height Limit!"}
 #effect give @a[x=-128,y=100,z=-128,dx=256,dy=156,dz=256] minecraft:wither 3 3
@@ -60,7 +69,7 @@ kill @e[tag=instant_bridge]
 execute at @e[tag=chicken_jockey] run summon chicken ~ ~ ~ {"Passengers":[{"id":"zombie","IsBaby":true}]}
 kill @e[tag=chicken_jockey]
 
-execute at @e[tag=skeleton_stack] run summon bat ~ ~ ~ {"Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton","Passengers":[{"id":"skeleton",}]}]}]}]}
+execute at @e[tag=skeleton_stack] run summon bat ~ ~ ~ {"Passengers":[{"id":"skeleton",HandItems:[{Count:1,id:bow},{}],"Passengers":[{"id":"skeleton",HandItems:[{Count:1,id:bow},{}],"Passengers":[{"id":"skeleton",HandItems:[{Count:1,id:bow},{}],"Passengers":[{"id":"skeleton",}]}]}]}]}
 kill @e[tag=skeleton_stack]
 
 execute at @e[tag=thermonuclear_bomb] run summon tnt ~ ~4 ~ {"Fuse":120}

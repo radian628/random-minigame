@@ -511,9 +511,10 @@ fill 96 224 32 127 255 63 minecraft:air
 fill 96 224 64 127 255 95 minecraft:air 
 fill 96 224 96 127 255 127 minecraft:air 
 
-kill @e[type=!player,tag=!sk]
-schedule function random:give 20t append
-schedule function random:give 40t append
-schedule function random:give 60t append
-schedule function random:give 80t append
-schedule function random:give 100t append
+  kill @e[type=!player,tag=!sk]
+  schedule function random:give 20t append
+  schedule function random:give 40t append
+  schedule function random:give 60t append
+  schedule function random:give 80t append
+  schedule function random:give 100t append
+  

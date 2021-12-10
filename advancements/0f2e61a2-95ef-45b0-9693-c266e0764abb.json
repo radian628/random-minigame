@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-08-03 19:13:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-07-28 19:30:13 -0700"
@@ -41,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-08-03 19:01:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-07-28 19:56:02 -0700"
@@ -56,6 +74,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-28 19:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -92,6 +116,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-07-28 20:14:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
     },
     "done": true
   },
@@ -233,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-08-13 17:37:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-07-28 19:44:05 -0700"
@@ -275,14 +311,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-07-28 20:19:37 -0700",
       "sweet_berries": "2021-07-28 20:30:20 -0700",
       "cooked_beef": "2021-07-28 20:26:50 -0700",
+      "baked_potato": "2021-08-03 19:13:48 -0700",
       "potato": "2021-07-28 19:40:22 -0700",
       "golden_apple": "2021-07-28 19:58:41 -0700",
       "enchanted_golden_apple": "2021-07-29 19:59:28 -0700",
+      "cod": "2021-08-03 19:34:26 -0700",
       "carrot": "2021-07-28 19:39:09 -0700"
     },
     "done": false
@@ -299,9 +343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-10-18 18:53:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-07-28 19:28:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-08-03 19:34:20 -0700"
     },
     "done": true
   },
@@ -326,6 +382,12 @@
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2021-07-28 19:37:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -365,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2021-11-16 21:49:52 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2021-07-28 19:58:48 -0700"
@@ -374,6 +442,18 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-07-28 19:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -389,9 +469,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-08-03 19:13:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-08-13 17:37:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-08-03 19:01:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-07-28 20:14:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -446,6 +550,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2021-07-28 19:28:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-10-18 19:20:46 -0700"
     },
     "done": true
   },
@@ -587,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-07-28 19:56:02 -0700"
@@ -626,7 +742,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-07-28 20:41:23 -0700",
-      "minecraft:wither": "2021-07-28 20:01:34 -0700"
+      "minecraft:blaze": "2021-07-30 20:07:19 -0700",
+      "minecraft:skeleton": "2021-08-21 17:36:02 -0700",
+      "minecraft:ghast": "2021-10-18 19:20:46 -0700",
+      "minecraft:vindicator": "2021-10-21 21:24:48 -0700",
+      "minecraft:creeper": "2021-08-04 19:22:01 -0700",
+      "minecraft:wither": "2021-07-28 20:01:34 -0700",
+      "minecraft:slime": "2021-10-18 18:10:06 -0700",
+      "minecraft:husk": "2021-11-14 15:21:48 -0800",
+      "minecraft:piglin": "2021-11-14 17:07:07 -0800",
+      "minecraft:stray": "2021-08-03 18:57:46 -0700",
+      "minecraft:silverfish": "2021-10-18 19:38:06 -0700",
+      "minecraft:enderman": "2021-10-23 20:08:39 -0700",
+      "minecraft:zombie": "2021-07-30 19:48:18 -0700",
+      "minecraft:drowned": "2021-11-30 21:18:11 -0800"
     },
     "done": false
   },
@@ -636,9 +765,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2021-10-18 19:08:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-07-28 19:27:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-07-30 20:04:08 -0700"
     },
     "done": true
   },
@@ -666,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-08-03 19:13:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-07-28 19:56:02 -0700"
@@ -684,6 +831,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-10-18 19:20:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-07-28 19:28:11 -0700"
@@ -693,6 +846,12 @@
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2021-07-28 19:37:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-10-18 18:53:53 -0700"
     },
     "done": true
   },
@@ -714,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-07-30 19:55:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-07-28 19:47:51 -0700"
@@ -732,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-08-03 19:34:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2021-07-28 20:19:47 -0700"
@@ -741,6 +912,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2021-07-28 19:28:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -834,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2021-07-28 19:30:13 -0700"
@@ -861,6 +1044,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-07-28 19:30:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-10-18 18:10:06 -0700"
     },
     "done": true
   },
@@ -924,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-08-04 19:37:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2021-07-28 19:41:08 -0700"
@@ -945,6 +1140,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2021-07-28 20:14:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-08-03 18:56:42 -0700"
     },
     "done": true
   },
@@ -978,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-08-03 19:01:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2021-07-28 19:46:25 -0700"
@@ -993,6 +1200,24 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2021-07-28 20:14:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-10-18 18:10:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-10-08 21:43:01 -0700"
     },
     "done": true
   },
@@ -1020,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-07-29 19:05:06 -0700"
@@ -1029,6 +1260,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2021-07-28 19:51:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -1071,6 +1308,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2021-07-29 20:06:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
     },
     "done": true
   },
@@ -1161,6 +1404,12 @@
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2021-07-29 20:25:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-10-18 18:10:06 -0700"
     },
     "done": true
   },
@@ -1320,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-07-30 19:55:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2021-07-28 20:14:04 -0700"
@@ -1362,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-08-03 19:34:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2021-07-28 19:40:36 -0700"
@@ -1386,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2021-11-14 17:30:54 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2021-07-28 19:41:08 -0700"
@@ -1407,6 +1674,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-07-28 19:30:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-08-03 19:13:24 -0700"
     },
     "done": true
   },

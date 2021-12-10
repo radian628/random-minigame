@@ -1,0 +1,78 @@
+[
+  {
+    "items": [
+      {
+        "id": "squid_spawn_egg{display:{Name:'{\"text\":\"Depths of the Ocean\",\"color\":\"blue\"}'}}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "wither_skeleton_skull",
+        "count": 3
+      },
+      {
+        "id": "soul_sand",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "lava_bucket",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "ender_pearl",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "snowball{display:{Name:'{\"text\":\"Ball Lightning\",\"color\":\"yellow\"}'}}",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "trident",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "totem_of_undying",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "enchanted_golden_apple",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"Charged Creeper\",\"color\":\"aqua\"}'}}",
+        "count": 8
+      }
+    ]
+  }
+]

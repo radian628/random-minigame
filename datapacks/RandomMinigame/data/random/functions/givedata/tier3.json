@@ -1,0 +1,128 @@
+[
+  {
+    "items": [
+      {
+        "id": "ender_pearl",
+        "count": 16
+      }
+    ],
+    "weight": 4
+  },
+  {
+    "items": [
+        {
+            "id": "elytra",
+            "count": 1
+        },
+        {
+            "id": "firework_rocket",
+            "count": 16
+        }
+    ],
+    "weight": 2
+  },
+  {
+    "items": [
+      {
+        "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"Charged Creeper\",\"color\":\"aqua\"}'}}",
+        "count": 32
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"THERMONUCLEAR BOMB\",\"color\":\"red\"}'},EntityTag:{Tags:[\"thermonuclear_bomb\"]}}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "crossbow",
+        "count": 1
+      },
+      {
+        "id": "firework_rocket{\"Fireworks\":{\"Flight\":3,\"Explosions\":[{},{},{},{},{},{},{},{},{},{},{},{}]},\"display\":{\"Name\":'{\"text\":\"Long Range Mini Nuke\",\"color\":\"red\"}'}}",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "snowball{display:{Name:'{\"text\":\"Ball Lightning\",\"color\":\"yellow\"}'}}",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "potion{\"CustomPotionColor\":0,display:{Name:'{\"text\":\"Deus Ex Machina\",\"color\":\"green\"}'},CustomPotionEffects:[{Id:25,Duration:160,Amplifier:50},{Id:11,Duration:400,Amplifier:6}]}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "bow",
+        "count": 1
+      },
+      {
+        "id": "arrow",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "crossbow",
+        "count": 1
+      },
+      {
+        "id": "arrow",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "crossbow",
+        "count": 1
+      },
+      {
+        "id": "firework_rocket{\"Fireworks\":{\"Explosions\":[{},{},{},{},{},{},{},{},{},{},{},{}]},\"display\":{\"Name\":'{\"text\":\"Mini Nuke\",\"color\":\"red\"}'}}",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "crossbow",
+        "count": 1
+      },
+      {
+        "id": "firework_rocket{\"Fireworks\":{\"Flight\":3,\"Explosions\":[{},{},{}]},\"display\":{\"Name\":'{\"text\":\"Long Range Rocket\",\"color\":\"red\"}'}}",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "crossbow",
+        "count": 1
+      },
+      {
+        "id": "firework_rocket{\"Fireworks\":{\"Explosions\":[{},{},{}]}}",
+        "count": 8
+      }
+    ]
+  }
+]

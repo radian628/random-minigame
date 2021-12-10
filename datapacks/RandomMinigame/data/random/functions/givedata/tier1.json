@@ -1,0 +1,174 @@
+[
+  {
+    "items": [
+      {
+        "id": "water_bucket",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "milk_bucket",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "bone",
+        "count": 64
+      },
+      {
+        "id": "wolf_spawn_egg",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "tnt",
+        "count": 32
+      },
+      {
+        "id": "flint_and_steel",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "shield",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "infested_stone",
+        "count": 32
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "fishing_rod",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "cobweb",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "bee_nest{BlockEntityTag:{Bees:[{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}},{EntityData:{id:bee}}]}}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "potion{display:{Name:'{\"text\":\"Potion of Platforming\",\"color\":\"green\"}'},CustomPotionEffects:[{Id:8,Duration:4000,Amplifier:5},{Id:28,Duration:4000,Amplifier:1}]}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "blaze_spawn_egg{display:{Name:'{\"text\":\"Fire Ball\",\"color\":\"gold\"}'}}",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "creeper_spawn_egg{display:{Name:'{\"text\":\"Charged Creeper\",\"color\":\"aqua\"}'}}",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "enchanting_table",
+        "count": 1
+      },
+      {
+        "id": "bookshelf",
+        "count": 16
+      },
+      {
+        "id": "lapis_lazuli",
+        "count": 64
+      },
+      {
+        "id": "experience_bottle",
+        "count": 64
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "anvil",
+        "count": 24
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "silverfish_spawn_egg{display:{Name:'{\"text\":\"Instant Platform\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"instant_platform\"]}}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "silverfish_spawn_egg{display:{Name:'{\"text\":\"Instant Bridge\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"instant_bridge\"]}}",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "chicken_spawn_egg{display:{Name:'{\"text\":\"Chicken Jockey\",\"color\":\"green\"}'},EntityTag:{Tags:[\"chicken_jockey\"]}}",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "skeleton_spawn_egg{display:{Name:'{\"text\":\"Skeleton Stack\",\"color\":\"gray\"}'},EntityTag:{Tags:[\"skeleton_stack\"]}}",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "spawner",
+        "count": 1
+      }
+    ]
+  }
+]

@@ -12,3 +12,17 @@ effect give @a minecraft:levitation 4 0
 effect give @a minecraft:slowness 4 5
 effect give @a minecraft:resistance 6 5
 clear @a
+
+scoreboard players set @e[tag=sk] globalTime 0
+
+# doing this bc he sucks at the game
+give LeanAndFit minecraft:netherite_boots 1
+give LeanAndFit minecraft:netherite_leggings 1
+give LeanAndFit minecraft:netherite_chestplate 1
+give LeanAndFit minecraft:netherite_helmet 1
+
+#give parleeszya minecraft:netherite_boots 1
+#give parleeszya minecraft:netherite_leggings 1
+#give parleeszya minecraft:netherite_chestplate 1
+#give parleeszya minecraft:netherite_helmet 1
+#give parleeszya minecraft:creeper_spawn_egg{display:{Name:'{"text":"THERMONUCLEAR BOMB","color":"red"}'},EntityTag:{Tags:["thermonuclear_bomb"]}} 1

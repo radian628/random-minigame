@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-06-25 14:20:39 -0700"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2020-07-13 22:26:32 -0700"
@@ -278,6 +290,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2020-06-25 15:36:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-08-03 22:19:12 -0700"
     },
     "done": true
   },
@@ -340,6 +358,7 @@
       "cooked_porkchop": "2020-06-26 12:21:30 -0700",
       "sweet_berries": "2020-06-25 13:54:54 -0700",
       "cooked_beef": "2020-06-25 13:27:08 -0700",
+      "beef": "2021-08-03 12:39:02 -0700",
       "porkchop": "2020-06-25 13:16:38 -0700",
       "tropical_fish": "2020-07-03 15:20:21 -0700",
       "potato": "2020-06-25 17:38:56 -0700",
@@ -567,6 +586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-06-25 13:35:39 -0700"
@@ -594,6 +619,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2020-07-03 23:20:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
     },
     "done": true
   },
@@ -705,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2021-08-01 15:30:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-06-25 13:04:10 -0700"
@@ -777,6 +814,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-06-30 13:02:45 -0700"
@@ -802,6 +851,8 @@
       "minecraft:silverfish": "2020-07-04 17:08:41 -0700",
       "minecraft:endermite": "2020-06-25 13:22:39 -0700",
       "minecraft:vex": "2020-06-25 13:33:11 -0700",
+      "minecraft:zombie": "2021-08-12 19:49:05 -0700",
+      "minecraft:drowned": "2021-08-03 22:24:40 -0700",
       "minecraft:zombie_villager": "2020-06-25 13:27:21 -0700"
     },
     "done": false
@@ -809,6 +860,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-06-25 14:20:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
     },
     "done": true
   },
@@ -902,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-06-25 13:08:51 -0700"
@@ -911,6 +974,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2020-06-25 17:30:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
     },
     "done": true
   },
@@ -1082,9 +1151,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-06-25 13:39:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-08-01 19:03:44 -0700"
     },
     "done": true
   },
@@ -1241,6 +1322,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-06-25 16:14:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-08-01 19:03:44 -0700"
     },
     "done": true
   },
@@ -1472,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-08-01 19:03:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-06-26 15:40:02 -0700"
@@ -1592,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-23 15:59:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-06-25 13:48:58 -0700"
@@ -1619,6 +1718,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2020-06-29 11:06:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
     },
     "done": true
   },
@@ -1763,6 +1868,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-06-25 14:20:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-08-03 22:21:51 -0700"
     },
     "done": true
   },

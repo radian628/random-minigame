@@ -13,6 +13,7 @@ team modify blue friendlyFire false
 
 scoreboard objectives add stillAlive dummy
 scoreboard objectives add time dummy
+scoreboard objectives add globalTime dummy
 scoreboard objectives add random dummy
 scoreboard objectives add walk minecraft.custom:minecraft.walk_one_cm
 scoreboard objectives add itemCount dummy
@@ -30,9 +31,10 @@ execute positioned 0 255 0 run tag @e[type=minecraft:armor_stand,limit=1] add sk
 function random:test/armor_stand2
 
 scoreboard players set @e[tag=sk] random 234234	
-scoreboard players set @e[tag=sk] itemCount 1061
+scoreboard players set @e[tag=sk] itemCount 1050
 scoreboard players set @e[tag=sk] isGamePlaying 0
 scoreboard players set @e[tag=sk] time 0
+scoreboard players set @e[tag=sk] globalTime 0
 scoreboard players set @e[tag=sk] stillAlive 0
 scoreboard players set @e[tag=sk] contractTime 0
 
