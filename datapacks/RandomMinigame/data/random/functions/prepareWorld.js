@@ -21,7 +21,7 @@ module.exports = function () {
   var prepareArenaCommands = "";
   
   for (var i = 0; 8 > i; i++) {
-    for (var j = 0; 8 > j; j++) {
+    for (var j = 0; 10 > j; j++) {
       for (var k = 0; 8 > k; k++) {
         prepareArenaCommands += `fill ${i * 32 - 128} ${j * 32} ${k * 32 - 128} ${
           i * 32 + 31 - 128

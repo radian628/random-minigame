@@ -1,4 +1,4 @@
-spawnpoint @a 0 220 0
+spawnpoint @a 0 284 0
 
 team leave @a 
 scoreboard players set @e[tag=sk] isGamePlaying 2
